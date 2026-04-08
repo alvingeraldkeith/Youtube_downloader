@@ -9,3 +9,4 @@ dependencies:
   - pip:
       - streamlit
       - yt-dlp
+      - curl-cffi
